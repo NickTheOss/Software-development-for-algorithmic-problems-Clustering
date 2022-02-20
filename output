@@ -1,0 +1,64 @@
+Algorithm: I1A1U1
+CLUSTER-1 size: 178, centroid: "item4
+CLUSTER-2 size: 91, centroid: "item147
+CLUSTER-3 size: 17, centroid: "item253
+CLUSTER-4 size: 78, centroid: "item261
+CLUSTER-5 size: 92, centroid: "item312
+clustering_time: 0.047000
+Silhouette: [0.465800, 0.910707, 0.027149, 0.060825, 0.901511, 0.556868]
+Algorithm: I1A2U1
+CLUSTER-1 size: 152, centroid: "item144
+CLUSTER-2 size: 72, centroid: "item69
+CLUSTER-3 size: 64, centroid: "item312
+CLUSTER-4 size: 118, centroid: "item222
+CLUSTER-5 size: 102, centroid: "item74
+clustering_time: 0.062000
+Silhouette: [-0.261172, 0.475620, 0.427041, 0.510481, -0.243634, 0.125577]
+Algorithm: I1A2U2
+CLUSTER-1 size: 90, centroid: "item69
+CLUSTER-2 size: 179, centroid: "item330
+CLUSTER-3 size: 95, centroid: "item270
+CLUSTER-4 size: 91, centroid: "item101
+CLUSTER-5 size: 1, centroid: "item3
+clustering_time: 0.015000
+Silhouette: [-1.000000, -0.259914, -0.317397, 0.406290, 1.000000, -0.282248]
+Algorithm: I1A1U2
+CLUSTER-1 size: 179, centroid: "item330
+CLUSTER-2 size: 75, centroid: "item69
+CLUSTER-3 size: 16, centroid: "item28
+CLUSTER-4 size: 95, centroid: "item270
+CLUSTER-5 size: 91, centroid: "item101
+clustering_time: 0.015000
+Silhouette: [0.472870, 0.081523, 0.024070, 0.912447, 0.914786, 0.572525]
+Algorithm: I2A1U1
+CLUSTER-1 size: 92, centroid: "item312
+CLUSTER-2 size: 87, centroid: "item482
+CLUSTER-3 size: 34, centroid: "item214
+CLUSTER-4 size: 182, centroid: "item104
+CLUSTER-5 size: 61, centroid: "item261
+clustering_time: 0.062000
+Silhouette: [0.900211, 0.904912, 0.030138, 0.454818, 0.042355, 0.543710]
+Algorithm: I2A1U2
+CLUSTER-1 size: 91, centroid: "item69
+CLUSTER-2 size: 95, centroid: "item270
+CLUSTER-3 size: 87, centroid: "item482
+CLUSTER-4 size: 92, centroid: "item339
+CLUSTER-5 size: 91, centroid: "item101
+clustering_time: 0.016000
+Silhouette: [0.901336, 0.906506, 0.904021, 0.900211, 0.910051, 0.904438]
+Algorithm: I2A2U1
+CLUSTER-1 size: 112, centroid: "item312
+CLUSTER-2 size: 65, centroid: "item290
+CLUSTER-3 size: 65, centroid: "item214
+CLUSTER-4 size: 298, centroid: "item461
+CLUSTER-5 size: 76, centroid: "item69
+clustering_time: 0.125000
+Silhouette: [0.532415, -0.541207, 0.765462, -0.258057, 0.567671, 0.088704]
+Algorithm: I2A2U2
+CLUSTER-1 size: 92, centroid: "item339
+CLUSTER-2 size: 1, centroid: "item3
+CLUSTER-3 size: 90, centroid: "item69
+CLUSTER-4 size: 91, centroid: "item101
+CLUSTER-5 size: 182, centroid: "item255
+clustering_time: 0.047000
+Silhouette: [0.365554, 1.000000, -1.000000, 0.364249, -0.350879, -0.188777]
